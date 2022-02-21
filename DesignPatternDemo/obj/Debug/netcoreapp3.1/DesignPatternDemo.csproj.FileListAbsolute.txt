@@ -1,0 +1,14 @@
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\netcoreapp3.1\DesignPatternDemo.exe
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\netcoreapp3.1\DesignPatternDemo.deps.json
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\netcoreapp3.1\DesignPatternDemo.runtimeconfig.json
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\netcoreapp3.1\DesignPatternDemo.runtimeconfig.dev.json
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\netcoreapp3.1\DesignPatternDemo.dll
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\netcoreapp3.1\DesignPatternDemo.pdb
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\netcoreapp3.1\DesignPatternDemo.csproj.AssemblyReference.cache
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\netcoreapp3.1\DesignPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\netcoreapp3.1\DesignPatternDemo.AssemblyInfoInputs.cache
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\netcoreapp3.1\DesignPatternDemo.AssemblyInfo.cs
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\netcoreapp3.1\DesignPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\netcoreapp3.1\DesignPatternDemo.dll
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\netcoreapp3.1\DesignPatternDemo.pdb
+C:\Users\DUY\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\netcoreapp3.1\DesignPatternDemo.genruntimeconfig.cache
